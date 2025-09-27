@@ -1,0 +1,17 @@
+{
+  "name": "7_project",
+  "version": "1.0.0",
+  "description": "Backend major project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Backend",
+    "video",
+    "player",
+    "project"
+  ],
+  "author": "Yash Ladda",
+  "license": "ISC"
+}
